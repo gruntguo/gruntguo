@@ -1,8 +1,8 @@
-- 👋 Hi, I’m GuePei
+- 👋 Hi, I’m GuoPei
 - 👀 I’m interested in development
-- 🌱 I’m currently learning Ocmal, c, react, freebsd, etc 
-- 💞️ I’m looking to collaborate on cloud service.
-- 📫 
+- 🌱 I’m currently learning Ocmal, c, react, freebsd, etc.
+- 💞️ I’m looking to collaborate on ...
+- 📫 ...
 
 <!---
 gruntguo/gruntguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
